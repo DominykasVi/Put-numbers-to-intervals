@@ -1,4 +1,4 @@
-//LSP: 1911122, Dominykas Višnevskis, dominykas.vi@gmail.com(studento dominykas.visnevskis@mif.stud.vu.lt), 6 uzd
+
 #include <stdio.h>
 
 int add_number() {
